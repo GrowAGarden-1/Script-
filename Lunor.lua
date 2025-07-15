@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-1/auza-gen-repo/main/auza.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/glpTYFwN/raw"))()
